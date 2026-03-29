@@ -1,7 +1,7 @@
 {
 	"compatibility_date": "2025-10-08",
 	"main": "src/index.ts",
-	"name": "ks_bowling_online_services",
+	"name": "ks-bowling-openai",
 	"upload_source_maps": true,
 	"observability": {
 		"enabled": true
