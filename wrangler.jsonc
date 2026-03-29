@@ -8,11 +8,8 @@
 	},
 	"d1_databases": [
 		{
-			"binding": "license_service_db",
-			"database_name": "license_service_db",
-			"database_id": "151d652f-c96d-407f-b47d-05c70e0b0f51",
-			"migrations_dir": "migrations",
-			"remote": true
+			"binding": "DB",
+			"database_name": "license_service_db"
 		}
 	]
 }
